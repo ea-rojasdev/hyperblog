@@ -3,8 +3,12 @@ Esta es a historia de Freddy Vega.
 Freddy tiene 32 años y nació en Colombia,
 viviendo en todo el mundo.
 
+<<<<<<< HEAD
 Hoy hablaremos de su historia.
 
 En camara parece alto, pero en verdad es bajito
 
 Hoy es el CEO de Platzi.
+=======
+Mañana hablaremos de su vida laboral.
+>>>>>>> cabecera
